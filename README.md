@@ -15,3 +15,7 @@ requirements.txt文件中有相关环境（除pytorch等相关包），大家可
 ## 代码运行
 
 详见博客。🍚🍚🍚
+
+
+## 模型权重下载
+我把用到的模型权重文件上传到了百度网盘，大家自行下载，地址：[模型权重](https://pan.baidu.com/s/1QJfG-fXFNWlEwGNJYKyhIQ?pwd=j0jt)🍄🍄🍄
